@@ -45,11 +45,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jxdul&theme=tokyonight" alt="Jadyl's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jxdul&theme=tokyonight" alt="Jadyl's top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Jxdul&theme=tokyonight" alt="Jadyl's GitHub streak" />
 </p>
 
