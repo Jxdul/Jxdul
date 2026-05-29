@@ -45,8 +45,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jxdul&show_icons=true&theme=tokyonight" alt="Jadyl's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jxdul&layout=compact&theme=tokyonight" alt="Jadyl's top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jxdul&theme=tokyonight" alt="Jadyl's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jxdul&theme=tokyonight" alt="Jadyl's top languages" />
 </p>
 
 <p align="center">
@@ -58,4 +58,3 @@
 - GitHub: https://github.com/Jxdul
 - LinkedIn: https://www.linkedin.com/in/jadylposadas
 - Instagram: https://www.instagram.com/Jxdul
-
